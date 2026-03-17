@@ -6,7 +6,7 @@ const CTASection = () => {
   return (
     <section className="relative py-40 px-6 overflow-hidden">
       <div className="absolute inset-0">
-        <img src={heroImg} alt="Raw Fitness environment" className="w-full h-full object-cover" />
+        <img src={heroImg} alt="NestFit environment" className="w-full h-full object-cover" />
         <div className="absolute inset-0 bg-background/85" />
       </div>
 
@@ -17,7 +17,7 @@ const CTASection = () => {
             Your Transformation<br />Starts Here.
           </h2>
           <p className="font-body text-muted-foreground text-lg max-w-xl mx-auto mb-10">
-            Stop waiting. The best version of you is one decision away. Join Raw Fitness today.
+            Stop waiting. The best version of you is one decision away. Join NestFit today.
           </p>
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
