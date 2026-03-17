@@ -12,7 +12,7 @@ const HeroSection = () => {
         transition={{ duration: 1.5, ease: "easeOut" }}
         className="absolute inset-0"
       >
-        <img src={heroImg} alt="NestFit Gym interior with heavy dumbbells" className="w-full h-full object-cover" />
+        <img src={heroImg} alt="Raw Fitness gym interior with heavy dumbbells" className="w-full h-full object-cover" />
         <div className="absolute inset-0 bg-gradient-to-b from-background/70 via-background/40 to-background" />
       </motion.div>
 
@@ -33,7 +33,7 @@ const HeroSection = () => {
           transition={{ delay: 0.7, duration: 0.8 }}
           className="font-display text-5xl md:text-7xl lg:text-9xl leading-[0.9] text-gradient mb-6"
         >
-          Train Hard. Build Strength at NestFit Gym.<br />Become Stronger.
+          Train Raw.<br />Become Stronger.
         </motion.h1>
 
         <motion.p
