@@ -6,21 +6,21 @@ import trainer3 from "@/assets/trainer-3.jpg";
 const trainers = [
   {
     img: trainer1,
-    name: "Jyotirmoy",
+    name: "Rahul Das",
     specialization: "Strength & Conditioning",
     experience: "8+ Years",
     desc: "Certified strength coach specializing in powerlifting and athletic performance.",
   },
   {
     img: trainer2,
-    name: "Raja",
+    name: "Priya Sen",
     specialization: "Fat Loss & Nutrition",
     experience: "6+ Years",
     desc: "Expert in body transformation, functional training, and personalized diet planning.",
   },
   {
     img: trainer3,
-    name: "Arjun",
+    name: "Arjun Roy",
     specialization: "Muscle Building",
     experience: "7+ Years",
     desc: "Hypertrophy specialist focused on progressive overload and body recomposition.",
@@ -43,7 +43,7 @@ const TrainersSection = () => {
                 <div className="overflow-hidden h-[400px]">
                   <img
                     src={t.img}
-                    alt={`${t.name} - ${t.specialization} trainer at NestFit Gym`}
+                    alt={`${t.name} - ${t.specialization} trainer at Raw Fitness`}
                     className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700"
                     loading="lazy"
                   />
