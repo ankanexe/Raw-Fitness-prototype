@@ -11,7 +11,7 @@ import cardioImg from "@/assets/cardio-area.jpg";
 import battleImg from "@/assets/battle-ropes.jpg";
 
 const images = [
-  { src: heroImg, alt: "Raw Fitness gym interior" },
+  { src: heroImg, alt: "NestFit gym interior" },
   { src: athleteImg, alt: "Athlete deadlifting" },
   { src: weightsImg, alt: "Free weights zone" },
   { src: benchImg, alt: "Bench press training" },
@@ -28,7 +28,7 @@ const GallerySection = () => {
       <div className="max-w-7xl mx-auto">
         <ScrollReveal className="text-center mb-20">
           <p className="font-condensed text-sm tracking-[0.3em] text-accent uppercase mb-4">Gallery</p>
-          <h2 className="font-display text-4xl md:text-6xl text-gradient">Inside Raw Fitness</h2>
+          <h2 className="font-display text-4xl md:text-6xl text-gradient">Inside NestFit</h2>
         </ScrollReveal>
 
         <div className="columns-1 sm:columns-2 lg:columns-3 gap-4 space-y-4">
