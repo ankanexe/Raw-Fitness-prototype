@@ -32,7 +32,7 @@ const Navbar = () => {
     >
       <div className="max-w-7xl mx-auto px-6 py-4 flex items-center justify-between">
         <a href="#" className="font-display text-2xl tracking-widest text-foreground">
-          RAW<span className="text-accent">.</span>
+          RAW FITNESS<span className="text-accent">.</span>
         </a>
 
         <div className="hidden md:flex items-center gap-8">
