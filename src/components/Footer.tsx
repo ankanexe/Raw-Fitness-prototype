@@ -7,7 +7,7 @@ const Footer = () => {
         <div className="grid md:grid-cols-4 gap-12 mb-12">
           <div>
             <h3 className="font-display text-2xl tracking-widest text-foreground mb-2">
-              RAW<span className="text-accent">.</span>
+              RAW FITNESS<span className="text-accent">.</span>
             </h3>
             <p className="font-display text-sm text-muted-foreground mb-4">র ফিটনেস</p>
             <p className="font-body text-sm text-muted-foreground leading-relaxed">
