@@ -21,7 +21,7 @@ const BrandStory = () => {
             <div className="overflow-hidden">
               <img
                 src={athleteImg}
-                alt="Athlete performing heavy deadlift at NestFit"
+                alt="Athlete performing heavy deadlift at Raw Fitness"
                 className="w-full h-[500px] object-cover hover:scale-105 transition-transform duration-700"
                 loading="lazy"
               />
@@ -33,7 +33,7 @@ const BrandStory = () => {
               No Shortcuts. No Excuses.
             </h3>
             <p className="font-body text-muted-foreground leading-relaxed mb-6">
-              NestFit was born from a simple belief — true transformation comes from discipline, not convenience. 
+              Raw Fitness was born from a simple belief — true transformation comes from discipline, not convenience. 
               Every rep, every set, every drop of sweat brings you closer to the person you're meant to become.
             </p>
             <p className="font-body text-muted-foreground leading-relaxed">
@@ -50,7 +50,7 @@ const BrandStory = () => {
               More Than a Gym.<br />A Brotherhood.
             </h3>
             <p className="font-body text-muted-foreground leading-relaxed mb-6">
-              At NestFit, you're not just a member — you're family. Our trainers don't just guide workouts; 
+              At Raw Fitness, you're not just a member — you're family. Our trainers don't just guide workouts; 
               they walk the journey with you. From fat loss to muscle building, from first-timers to competitors.
             </p>
             <div className="grid grid-cols-3 gap-6 mt-10">
@@ -70,7 +70,7 @@ const BrandStory = () => {
             <div className="overflow-hidden">
               <img
                 src={benchImg}
-                alt="Intense bench press workout at NestFit"
+                alt="Intense bench press workout at Raw Fitness"
                 className="w-full h-[500px] object-cover hover:scale-105 transition-transform duration-700"
                 loading="lazy"
               />
