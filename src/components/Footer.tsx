@@ -11,7 +11,7 @@ const Footer = () => {
             </h3>
             <p className="font-display text-sm text-muted-foreground mb-4">র ফিটনেস</p>
             <p className="font-body text-sm text-muted-foreground leading-relaxed">
-              Barasat's premium fitness destination. Train raw, become stronger.
+              Barasat's premium fitness destination. Train Hard. Build Strength at NestFit Gym.
             </p>
           </div>
 
@@ -36,7 +36,7 @@ const Footer = () => {
               <div className="flex gap-3">
                 <MapPin className="w-4 h-4 text-accent flex-shrink-0 mt-0.5" />
                 <p className="font-body text-sm text-muted-foreground">
-                  Saroj Park, Taki Rd, Barasat,<br />Kolkata, WB 700124
+                  Saptarshi Sangha Club, Palpakuria Rd, Barasat,<br />Kolkata, WB 700125
                 </p>
               </div>
               <div className="flex gap-3">
@@ -70,7 +70,7 @@ const Footer = () => {
 
         <div className="border-t border-border pt-8 text-center">
           <p className="font-body text-xs text-muted-foreground">
-            © {new Date().getFullYear()} Raw Fitness. All rights reserved. Barasat, Kolkata.
+            © {new Date().getFullYear()} NestFit Gym. All rights reserved. Barasat, Kolkata.
           </p>
         </div>
       </div>
